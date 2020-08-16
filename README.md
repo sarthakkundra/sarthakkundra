@@ -1,8 +1,6 @@
 <!-- [![Header](https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1 "Header")](https://sarthakkundra.github.io/portfolio/) -->
-<p align=center>
-<img src="./assets/header.gif" width=400 height=250>
-</p>
 
+![](https://i.gifer.com/5eKX.gif)
  <h1 align="center"> Hi! <img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
  </h1>
 <p> I'm a MERN stack developer making web apps to make everyday lives easier. I'm a keen learner and have an inquisite personality which makes me want to explore new avenues whenever possible. I'm currently exploring the world of machine learning. That GIF above is my usual day xD </p>
