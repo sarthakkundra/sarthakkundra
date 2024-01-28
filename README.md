@@ -6,6 +6,8 @@
  </h1>
 <p> I'm a full stack developer making web apps to make everyday lives easier. I specialize in frontend development. I'm a keen learner and have an inquisitive personality, making me want to explore new avenues whenever possible. I fiddle with Solidity on the side. </p>
 
+<p> I currently work at Acko as a frontend engineer. I've previously worked at FrontRow. I also hang out at Developer Dao and do freelancing on the side. </p>
+
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthakkundra&hide=stars&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working with NextJs, Typescript, Solidity.
